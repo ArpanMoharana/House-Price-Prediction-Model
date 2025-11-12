@@ -1,5 +1,4 @@
-# Project Title: California House Price Prediction
-
+# Project Title: House-Price-Prediction-Model
 **Description:**
 A machine learning project in Python to predict California house prices. This project covers the complete data science workflow from data loading and cleaning to model training, hyperparameter tuning, and evaluation.
 

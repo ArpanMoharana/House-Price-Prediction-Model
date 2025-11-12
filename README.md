@@ -4,6 +4,20 @@
 A machine learning project in Python to predict California house prices. This project covers the complete data science workflow from data loading and cleaning to model training, hyperparameter tuning, and evaluation.
 
 ---
+## Exploratory Data Analysis (EDA)
+
+Here are the key visualizations from the project.
+
+### Correlation Heatmap
+This heatmap shows the correlation between all features. `median_income` has the strongest positive correlation with our target, `median_house_value`.
+
+![Correlation Heatmap](2ab16bbf-1bbe-43e3-b43a-e2afeab363d0.png)
+
+### Housing Price by Location
+This scatter plot shows that properties closer to the coast (especially around San Francisco and Los Angeles) are significantly more expensive.
+
+![Housing Price by Location](aa695ad6-1bdc-457b-974c-e5f4306f26da.jpeg)
+---
 
 ## 💾 Dataset
 The dataset used for this project is the **California Housing Prices** dataset, available on Kaggle:

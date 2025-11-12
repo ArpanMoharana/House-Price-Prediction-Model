@@ -33,7 +33,7 @@ The dataset used for this project is the **California Housing Prices** dataset, 
 ## 📂 How to Use
 1.  Download the dataset from the link above and place `housing.csv` in the project folder.
 2.  Clone the repository:
-    `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git`
+    `git clone https://github.com/ArpanMoharana/House-Price-Prediction-Model`
 3.  Install the required libraries:
     `pip install -r requirements.txt`
 4.  Open the `YourNotebookName.ipynb` file in Jupyter Notebook or JupyterLab.

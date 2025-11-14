@@ -1,4 +1,15 @@
 # Project Title: House-Price-Prediction-Model
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-%23F7931E.svg)
+![RandomForest](https://img.shields.io/badge/Model-Random%20Forest-green.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf.svg)
+
 **Description:**
 A machine learning project in Python to predict California house prices. This project covers the complete data science workflow from data loading and cleaning to model training, hyperparameter tuning, and evaluation.
 
